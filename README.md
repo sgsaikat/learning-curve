@@ -1,6 +1,6 @@
 # learning-curve
-This Repository hosts Assignments using the [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews) dataset.
-The files contain the various techniques and ML algorithms learnt as gradual progression of the course.
+This Repository hosts Assignments using a running example [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews) dataset.
+The files contain various techniques and ML algorithms learnt as gradual progression of the course.
 
 Some of the details are highlighted below :-
 * Create_Support_Files - This file is used to preprocess the text data and store the Vectorized data in files to be used in other Assignments.
